@@ -1,11 +1,11 @@
 # Java-Console-Calculator
 Simple console-based calculator in Java
 
-🎯 Objective
+# 🎯 Objective
 
 Build a simple console-based calculator using Java that performs basic arithmetic operations such as addition, subtraction, multiplication, and division through user input.
 
-⚙️ Tools & Technologies
+# ⚙️ Tools & Technologies
 
 Language: Java (JDK 8 or higher)
 
@@ -13,11 +13,11 @@ IDE/Editor: Visual Studio Code / IntelliJ IDEA / Eclipse (or any Java IDE)
 
 Execution: Terminal / Command Prompt / IDE Run Console
 
-📂 Deliverable
+# 📂 Deliverable
 
 Source Code File: Calculator.java
 
-🧠 Features & Requirements
+# 🧠 Features & Requirements
 
 Define separate methods for:
 
@@ -35,7 +35,7 @@ Implement a loop to perform multiple operations until the user chooses to exit.
 
 Handle division by zero gracefully with a user-friendly message.
 
-🧩 Program Flow
+# 🧩 Program Flow
 1. Display a menu:
    1. Addition
    2. Subtraction
@@ -49,16 +49,20 @@ Handle division by zero gracefully with a user-friendly message.
 5. Display the result.
 6. Repeat until the user selects Exit.
 
-💻 Sample Output
+# 💻 Sample Output
 ===== SIMPLE CALCULATOR =====
 1. Addition
 2. Subtraction
 3. Multiplication
 4. Division
 5. Exit
+
 Enter your choice: 1
+
 Enter first number: 10
+
 Enter second number: 25
+
 Result: 35.0
 
 ===== SIMPLE CALCULATOR =====
@@ -67,13 +71,18 @@ Result: 35.0
 3. Multiplication
 4. Division
 5. Exit
+   
 Enter your choice: 4
+
 Enter first number: 8
+
 Enter second number: 0
+
 Error: Division by zero is not allowed!
+
 Result: 0.0
 
-🚀 How to Run
+# 🚀 How to Run
 🖥️ Using Command Prompt / Terminal
 
 Save your program as Calculator.java
@@ -89,25 +98,7 @@ Run the program:
 
 java Calculator
 
-💡 Using VS Code
-
-Open VS Code and the folder containing Calculator.java
-
-Ensure Java Extension Pack is installed
-
-Open the terminal (Ctrl + ~)
-
-Run the same commands above or click Run ▶️ on top of the editor
-
-🧩 Using IntelliJ IDEA / Eclipse
-
-Create a new Java project
-
-Add Calculator.java to the src folder
-
-Click Run
-
-🏁 Outcome
+# 🏁 Outcome
 
 By completing this task, you will:
 
